@@ -1,4 +1,4 @@
-Welcome to my proofreading showcase! I specialize in polishing fiction, blog content, business writing, and digital media. This portfolio contains examples of my work, including before/after edits, clarity improvements, and proofreading corrections.
+Welcome to my proofreading and editing showcase! I specialize in polishing fiction, blog content, business writing, and digital media. This portfolio contains examples of my work, including before/after edits, clarity improvements, and proofreading corrections.
 
 🔍 What You’ll Find Here:
 
