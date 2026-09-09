@@ -22,5 +22,5 @@ Grammarly/Quilbot
 Hemingway Editor
 
 📬 Contact
-If you’d like to work together, feel free to reach out!
+If you’d like to work together, feel free to reach out! lopezmaddi2025@mail.com
 I offer fast turnaround, friendly communication, and detail‑focused proofreading.
