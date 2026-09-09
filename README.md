@@ -5,20 +5,12 @@ Welcome to my proofreading and editing showcase! I specialize in polishing ficti
 ✔ Fiction Proofreading Samples
 Short paragraphs showing grammar, punctuation, clarity, and consistency fixes.
 
-✔ Blog Post Proofreading
+✔ Blog/Article Post Proofreading
 Before/after edits demonstrating readability improvements.
 
-✔ Business Email Cleanup
+✔ Business or Technical Writing
 Professional tone, grammar corrections, and formatting fixes.
 
-✔ Social Media Caption Polishing
-Quick, clean edits for creators and small businesses.
-
-✔ Track Changes Examples
-Microsoft Word and Google Docs files showing transparent edits.
-
-✔ My Resume
-Freelance proofreading resume with skills, tools, and experience.
 
 🛠️ Tools I Use
 Google Docs (Suggesting mode)
