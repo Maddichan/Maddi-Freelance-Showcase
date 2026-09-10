@@ -1,5 +1,3 @@
----
-
 Beyond the Filter: The High-Risk World of Overseas Injections
 Social media sells transformation as effortless, but cross-border cosmetic tourism hides a growing public health crisis.
 
