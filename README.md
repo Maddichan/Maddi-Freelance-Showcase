@@ -5,25 +5,25 @@
 
 ---
 
-##Executive Summary
+Executive Summary
 
 Welcome to my portfolio repository. This showcase highlights investigative work, deep-dive technical reporting, and analytical journalism. My reporting focuses on translating complex datasets, scientific developments, and systemic issues into high-impact, accessible non-fiction narratives.
 
 ---
 
-##Featured Investigative & Analytical Work
+Featured Investigative & Analytical Work
 
-###Medical & Public Health Policy
+Medical & Public Health Policy
 * **[The Clinical Landscape of GLP-1 Receptor Agonists in Type 2 Diabetes](./Articles/The%20Clinical%20Landscape%20of%20GLP-1%20Receptor%20Agonists%20in%20Type%202%20Diabetes.md)**  
   *An in-depth technical analysis examining therapeutic mechanisms, clinical safety profiles, and broader public health implications.*
 
-###Global Health & Unregulated Markets
+Global Health & Unregulated Markets
 * **[Beyond the Filter: The High-Risk World of Overseas Injections](./Articles/Beyond%20the%20Filter%20The%20High-Risk%20World%20of%20Overseas%20Injections.md)**  
   *An investigative breakdown exploring unregulated cosmetic procedures, international supply chain vulnerabilities, and consumer risk vectors.*
 
 ---
 
-##Core Investigative Capabilities
+Core Investigative Capabilities
 
 * **Investigative Research & OSINT:** Document analysis, public records tracking, background synthesis, and open-source intelligence gathering.
 * **Technical & Scientific Reporting:** Translating dense medical data, peer-reviewed literature, and policy papers for broad readership.
@@ -32,7 +32,7 @@ Welcome to my portfolio repository. This showcase highlights investigative work,
 
 ---
 
-##Contact & Submissions
+Contact & Submissions
 
 * **Email:** [lopezmaddi2025@gmail.com](mailto:lopezmaddi2025@gmail.com)
 * **Medium Portfolio:** [Medium Profile](https://medium.com/@macz46820)
