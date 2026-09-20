@@ -143,4 +143,73 @@ Healthy boundaries create trust and fairness across the team[cite: 13]:
 
 ---
 
+## 💰 Compensation and Benefits
+
+### 💵 Payroll
+
+| Item | Details |
+| :--- | :--- |
+| **Pay schedule (biweekly, monthly, etc.)** | Employees are paid on a semi-monthly basis on the 15th and last business day of each month[cite: 16]. |
+| **How to access pay stubs** | Access digital pay stubs, W-2 tax forms, and direct deposit settings through the HR portal[cite: 16]. |
+| **Who to contact for payroll questions** | Direct all pay discrepancies, withholding updates, or direct deposit inquiries to `payroll@company.com`[cite: 16]. |
+
+### 🛡️ Insurance & Health Benefits
+
+| Item | Details |
+| :--- | :--- |
+| **Overview of medical, dental, and vision plans** | Comprehensive health coverage options are provided, including PPO/HDHP medical, comprehensive dental, and annual vision care[cite: 16]. |
+| **Eligibility timelines** | Benefits become active on the 1st day of the month following 30 days of continuous employment[cite: 16]. |
+| **Where to find detailed plan documents** | Full policy coverage breakdowns, benefit summary sheets, and provider directory links are available on the internal HR portal[cite: 16]. |
+
+### 📈 Retirement & Savings
+
+| Item | Details |
+| :--- | :--- |
+| **401(k) or equivalent plan details** | Traditional pre-tax and Roth 401(k) retirement savings plans are available to all full-time employees[cite: 16]. |
+| **Employer match information** | The company matches 100% of contributions up to 4% of eligible annual salary, vesting immediately[cite: 16]. |
+| **Enrollment instructions** | Enroll or modify contribution rates anytime via the benefits portal[cite: 16]. |
+
+### 🎓 Professional Development
+
+| Item | Details |
+| :--- | :--- |
+| **Available training programs** | Access to internal leadership workshops, self-paced learning courses, and external skill development webinars[cite: 16]. |
+| **Tuition reimbursement or certification support** | Up to $1,500 annually per employee for job-related professional certifications, conferences, or academic coursework[cite: 16]. |
+| **How to request development resources** | Submit a request form through your manager detailing the course title, cost, and direct alignment with your role[cite: 16]. |
+
+---
+
+## ✈️ Travel and Expenses
+
+### 🧾 Expense Reimbursement
+
+| Topic | Details |
+| :--- | :--- |
+| **What qualifies as a reimbursable expense** | Pre-approved business travel, client entertainment, necessary office software, and required work-related equipment[cite: 17]. |
+| **Required documentation (receipts, approvals)** | Itemized receipts required for all expenditures over $25, accompanied by manager pre-approval[cite: 17]. |
+| **Submission timelines** | Expense reports must be submitted within 30 days of purchase or travel completion[cite: 17]. |
+
+### 🛫 Travel Booking
+
+| Topic | Details |
+| :--- | :--- |
+| **Preferred vendors or platforms** | All flights, lodging, and rental cars must be booked through the company’s preferred travel platform[cite: 17]. |
+| **Guidelines for flights, hotels, and transportation** | Economy class for flights under 6 hours; standard rooms at preferred hotel chains; rideshare or rental cars for ground transit[cite: 17]. |
+| **Expectations for cost-conscious travel** | Book travel at least 14 days in advance whenever possible to secure reasonable market rates[cite: 17]. |
+
+### 🍽️ Per Diem & Meals
+
+| Topic | Details |
+| :--- | :--- |
+| **Daily meal allowances** | Up to $75 per day for meals while on approved business travel[cite: 17]. |
+| **Rules for client meals or team outings** | Pre-approval required for groups over 4; itemized receipts with guest names and business topics must be provided[cite: 17]. |
+
+### 🛡️ Safety & Conduct While Traveling
+
+| Topic | Details |
+| :--- | :--- |
+| **Maintain professionalism during travel** | Represent company standards and culture in all professional and social environments while traveling[cite: 17]. |
+| **Follow company safety protocols** | Save local emergency numbers, share travel itineraries with your manager, and use secure networks[cite: 17]. |
+| **Report incidents promptly** | Notify HR and travel operations immediately in the event of illness, accident, loss, or emergency[cite: 17]. |
+
 [← Return to Technical Documentation](./README.md)
