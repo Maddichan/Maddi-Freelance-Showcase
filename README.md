@@ -14,7 +14,7 @@ Welcome to my portfolio repository. This showcase highlights investigative repor
 - **[02 - The Clinical Landscape of GLP-1 Receptor Agonists in Type 2 Diabetes](./Articles/02%20-%20The%20Clinical%20Landscape%20of%20GLP-1%20Receptor%20Agonists%20in%20Type%202%20Diabetes.md)**
   An in-depth technical breakdown analyzing GLP-1 receptor agonists, covering mechanisms of action, clinical efficacy, cardiorenal outcomes, safety profiles, and pharmaceutical alternatives.
   
-- **[03 - GLP-1 and Diabetes: Benefits, Risks, and Alternatives](./Articles/03%20GLP-1%20and%20Diabetes:%20Benefits,%20Risks,%20and%20Alternatives.md)**
+- **[03 - GLP-1 and Diabetes - Benefits, Risks, and Alternatives](./Articles/03%20GLP-1%20and%20Diabetes:%20Benefits,%20Risks,%20and%20Alternatives.md)**
   An accessible overview explaining GLP-1 mechanisms, appetite regulation, short and long-term treatment benefits, potential adverse effects, and alternative T2DM drug classes.
 
 ### Technical Documentation & Leadership Guides
