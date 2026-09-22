@@ -1,4 +1,4 @@
-# Investigative Journalism & Research Portfolio
+# Journalism & Technical Research Portfolio
 
 **Independent Journalist & Technical Researcher**  
 *Specializing in open-source intelligence (OSINT), data-driven reporting, medical/technical policy, and long-form investigative writing.*
