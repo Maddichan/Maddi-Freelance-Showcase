@@ -35,5 +35,5 @@ Welcome to my portfolio repository. This showcase highlights investigative repor
 ## Contact & Links
 
 - **Email:** [lopezmaddi2025@gmail.com](mailto:lopezmaddi2025@gmail.com)
-- **Medium Profile:** [Medium Portfolio](https://medium.com/@macz46820)
+- **Medium Profile:** [Medium Portfolio](https://medium.com/@madz46820)
 - **Confluence** [Confluence Page](https://lopezmaddi.atlassian.net/wiki/external/ZDdkMzM1N2YyMGYzNDk0OTkxNjNmZjBhNGMxYTY5MjU)
