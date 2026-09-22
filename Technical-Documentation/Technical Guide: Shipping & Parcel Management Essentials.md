@@ -5,14 +5,14 @@
 | **Document Title** | End-to-End Shipping & Dispatch Standard Operating Procedure |
 | **Owner** | Logistics Operations & Fulfillment Team |
 | **Applies To** | Fulfillment Specialists, Logistics Coordinators, Customer Support |
-| **Covered Carriers** | FedEx, UPS, Purolator, USPS, Canada Post |
+| **Covered Carriers** | FedEx, UPS, Purolator, USPS, Canada Post, DHL, Australia Post (AU Post) |
 | **Review Rhythm** | Bi-Annual / As Protocols Update |
 
 ---
 
 ## 💡 Executive Summary & Purpose
 
-This Standard Operating Procedure (SOP) provides a step-by-step operational workflow for selecting, packaging, creating, and dispatching shipments across North American carrier networks. Following these instructions ensures compliance with carrier regulations, minimizes transit exceptions, and guarantees delivery SLAs.
+This Standard Operating Procedure (SOP) provides a step-by-step operational workflow for selecting, packaging, creating, and dispatching shipments across domestic and global carrier networks. Following these instructions ensures compliance with carrier regulations, minimizes transit exceptions, and guarantees delivery SLAs.
 
 ---
 
@@ -20,7 +20,7 @@ This Standard Operating Procedure (SOP) provides a step-by-step operational work
 
 Before initiating any shipment, ensure access to the following systems and materials:
 
-* **Logistics Systems:** Carrier Admin Portals (FedEx Ship Manager, UPS CampusShip, Purolator E-Ship, USPS Click-N-Ship / Pitney Bowes, Canada Post EST 2.0) or integrated WMS/ERP platforms (e.g., NetSuite, Shopify)[cite: 13.8].
+* **Logistics Systems:** Carrier Admin Portals (FedEx Ship Manager, UPS CampusShip, Purolator E-Ship, USPS Click-N-Ship, Canada Post EST 2.0, DHL Express Commerce / My Supply Chain, Australia Post Business Portal) or integrated WMS/ERP platforms (e.g., NetSuite, Shopify).
 * **Hardware:** Thermal Label Printer (4x6 format), Digital Weighing Scale, Tape Measure.
 * **Packaging Materials:** Corrugated boxes, bubble mailers, void fill (Kraft paper/air pillows), packing tape, hazardous material labels (if applicable).
 
@@ -32,11 +32,13 @@ Select the appropriate carrier and service level based on destination, speed req
 
 | Carrier | Primary Regional Coverage | Best For | Typical Service Levels |
 | :--- | :--- | :--- | :--- |
-| **FedEx** | US & Global | Time-definite, express, and heavy parcel delivery[cite: 13.8]. | Priority Overnight, 2Day, Ground, Home Delivery[cite: 13.8] |
-| **UPS** | US & Global | Commercial B2B, heavy freight, and urgent domestic transit[cite: 13.8]. | Next Day Air, 2nd Day Air, Ground[cite: 13.8] |
-| **Purolator** | Canada (Domestic) & Cross-Border | Canadian domestic express and regional freight delivery[cite: 13.8]. | Purolator Express, Purolator Ground[cite: 13.8] |
-| **USPS** | United States | Lightweight, residential, PO Box, and APO/FPO destinations[cite: 13.8]. | Priority Mail Express, Priority Mail, Ground Advantage[cite: 13.8] |
-| **Canada Post** | Canada | Canadian residential, PO Box, rural, and northern territories[cite: 13.8]. | Priority, Xpresspost, Expedited Parcel, Regular Parcel[cite: 13.8] |
+| **FedEx** | US & Global | Time-definite, express, and heavy parcel delivery. | Priority Overnight, 2Day, Ground, Home Delivery |
+| **UPS** | US & Global | Commercial B2B, heavy freight, and urgent domestic transit. | Next Day Air, 2nd Day Air, Ground |
+| **Purolator** | Canada & Cross-Border | Canadian domestic express and regional freight delivery. | Purolator Express, Purolator Ground |
+| **USPS** | United States | Lightweight, residential, PO Box, and APO/FPO destinations. | Priority Mail Express, Priority Mail, Ground Advantage |
+| **Canada Post** | Canada | Canadian residential, PO Box, rural, and northern territories. | Priority, Xpresspost, Expedited Parcel, Regular Parcel |
+| **DHL** | Global / International | Premium international express, cross-border courier, and worldwide customs clearance. | DHL Express Worldwide, DHL Express 12:00, DHL eCommerce |
+| **AU Post** | Australia & Oceania | Australian domestic residential, rural/outback, PO Boxes, and regional Oceania transit. | Express Post, Parcel Post, StarTrack (Express Freight) |
 
 ---
 
@@ -54,20 +56,21 @@ Select the appropriate carrier and service level based on destination, speed req
 
 ## 📄 Step 3: Label Creation & Protocol
 
-### A. Domestic Shipments (US or Canada Internal)
-1. Log into the designated carrier portal or ERP platform[cite: 13.8].
-2. Input recipient details: **Full Name**, **Company Name** (if applicable), **Street Address** (No PO Boxes for FedEx/UPS/Purolator), **City**, **State/Province**, **Postal Code**, and **Phone Number**.
+### A. Domestic Shipments (US, Canada, or Australia Internal)
+1. Log into the designated carrier portal or ERP platform.
+2. Input recipient details: **Full Name**, **Company Name** (if applicable), **Street Address** (No PO Boxes for FedEx/UPS/Purolator/DHL), **City**, **State/Province**, **Postal Code**, and **Phone Number**.
+   * *Note for AU Post:* PO Box and Parcel Locker deliveries are supported natively.
 3. Enter verified weight and box dimensions.
-4. Select target service level based on required delivery SLA[cite: 13.8].
+4. Select target service level based on required delivery SLA.
 5. Generate and print the 4x6 thermal shipping label.
 
-### B. Cross-Border & International Shipments (US <-> Canada / Global)
-1. **Commercial Invoice (CI):** Required for all non-document cross-border shipments.
+### B. International & Cross-Border Shipments (DHL, FedEx, UPS, AU Post International)
+1. **Commercial Invoice (CI):** Required for all non-document international shipments.
 2. **Itemization:** Declare item description, Harmonized System (HS) Tariff Code, Quantity, Unit Value, and Country of Origin.
 3. **Incoterms Selection:**
    * **DDP (Delivered Duty Paid):** Shipper pays customs clearance duties and taxes.
    * **DAP/DDU (Delivered at Place):** Recipient pays duties and taxes upon delivery.
-4. Complete Customs Electronic Trade Documents (ETD) or attach 3 printed copies of the Commercial Invoice to the outside of the box in a clear pouch.
+4. **Paperless Trade / ETD:** Utilize DHL Paperless Trade (PLT) or FedEx/UPS ETD whenever available to submit digital customs invoices; otherwise, attach 3 printed copies of the Commercial Invoice in a clear pouch on the outside of the box.
 
 ---
 
@@ -76,19 +79,20 @@ Select the appropriate carrier and service level based on destination, speed req
 1. **Label Placement:** Affix the label flat on the largest side of the package, away from seams, tape, or corners. Do not cover barcode areas.
 2. **Special Handling Labels:** Apply "Fragile", "This Side Up", or "Lithium Battery / UN3481" stickers if applicable.
 3. **Carrier Tender & Staging:**
-   * **FedEx / UPS / Purolator:** Stage packages in carrier-specific pickup bays or drop off at designated authorized locations prior to daily cutoff times[cite: 13.8].
-   * **USPS / Canada Post:** Schedule daily carrier pickups or drop off at local post office locations[cite: 13.8].
+   * **DHL / FedEx / UPS / Purolator:** Stage packages in carrier-specific pickup bays or schedule daily driver pickups prior to regional cutoffs.
+   * **USPS / Canada Post / AU Post:** Schedule daily carrier pickups, drop off at local post office facilities, or tender to designated post red street boxes (AU Post/Canada Post).
 4. **Scan Verification:** Obtain a physical or digital acceptance receipt/manifest scan upon handover.
 
 ---
 
 ## 🔍 Step 5: Post-Dispatch Tracking & Exception Handling
 
-1. Log shipment tracking numbers in your internal tracking database or ERP system[cite: 13.8].
+1. Log shipment tracking numbers in your internal tracking database or ERP system.
 2. **Exception Protocol:**
-   * **Address Correction Needed:** Contact carrier support via portal or dedicated agent line to submit an address update prior to out-for-delivery status[cite: 13.8].
+   * **Address Correction Needed:** Contact carrier support via portal or dedicated agent line to submit an address update prior to out-for-delivery status.
    * **Weather / Mechanical Delay:** Notify recipient with updated estimated delivery time (EDT).
-   * **Lost / Damaged in Transit:** Initiate formal carrier claim within 15 days of expected delivery date, attaching photos and proof of value[cite: 13.8].
+   * **Customs Clearance Hold (DHL / FedEx International):** Contact recipient or carrier customs broker immediately to provide missing tax IDs, EORI numbers, or valuation documents.
+   * **Lost / Damaged in Transit:** Initiate formal carrier claim within 15 days of expected delivery date, attaching photos and proof of value.
 
 ---
 
