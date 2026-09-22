@@ -1,4 +1,4 @@
-People-First Leadership Essentials
+**People-First Leadership Essentials**
 
 **By Maddi Lopez**
 
