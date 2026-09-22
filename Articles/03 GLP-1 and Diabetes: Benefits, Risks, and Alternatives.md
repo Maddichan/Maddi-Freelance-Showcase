@@ -1,4 +1,4 @@
-#  + **GLP-1 and Diabetes: Benefits, Risks, and Alternatives**
+#   **GLP-1 and Diabetes: Benefits, Risks, and Alternatives**
 
 *How GLP-1 receptor agonists affect blood sugar, weight, cardiovascular health, and the broader treatment landscape for type 2 diabetes.*
 
