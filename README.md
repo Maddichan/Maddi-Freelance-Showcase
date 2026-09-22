@@ -21,6 +21,7 @@ Global Health & Unregulated Markets
 * **[Beyond the Filter: The High-Risk World of Overseas Injections](./Articles/Beyond%20the%20Filter%20The%20High-Risk%20World%20of%20Overseas%20Injections.md)**  
   *An investigative breakdown exploring unregulated cosmetic procedures, international supply chain vulnerabilities, and consumer risk vectors.*
 
+
 ---
 
 Core Investigative Capabilities
