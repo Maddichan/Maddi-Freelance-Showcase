@@ -1,4 +1,4 @@
-#   **GLP-1 and Diabetes: Benefits, Risks, and Alternatives**
+# GLP-1 and Diabetes: Benefits, Risks, and Alternatives
 
 *How GLP-1 receptor agonists affect blood sugar, weight, cardiovascular health, and the broader treatment landscape for type 2 diabetes.*
 
@@ -32,7 +32,7 @@ In people with T2DM, the natural incretin effect is diminished. Synthetic GLP-1 
 ### Short-Term Benefits
 
 #### Improved Glycemic Control
-GLP-1 receptor agonists can significantly reduce HbA1c levels without an intrinsic risk of severe hypoglycemia.
+GLP-1 receptor agonists can significantly reduce HbA1c levels without an intrinsic risk of severe hypoglycemia, as highlighted in the [American Diabetes Association Standards of Care in Diabetes](https://app.notion.com/p/GLP-1-and-Diabetes-Benefits-Risks-and-Alternatives-3c6e4ad481e480e7ad0ce3f7763b1c53).
 
 #### Appetite Suppression
 Delayed gastric emptying and central satiety signaling can lead to a rapid decrease in caloric intake.
@@ -40,7 +40,7 @@ Delayed gastric emptying and central satiety signaling can lead to a rapid decre
 ### Long-Term Benefits
 
 #### Cardiovascular Protection
-Major cardiovascular outcome trials have demonstrated reduced rates of major adverse cardiovascular events—including myocardial infarction and stroke—with certain GLP-1 receptor agonists.
+According to studies published in the [New England Journal of Medicine](https://app.notion.com/p/GLP-1-and-Diabetes-Benefits-Risks-and-Alternatives-3c6e4ad481e480e7ad0ce3f7763b1c53), major cardiovascular outcome trials have demonstrated reduced rates of major adverse cardiovascular events—including myocardial infarction and stroke—with certain GLP-1 receptor agonists.
 
 #### Renal Preservation
 These medications have been associated with lower rates of persistent macroalbuminuria and progression of chronic kidney disease.
@@ -66,7 +66,7 @@ Gastrointestinal distress is especially common during treatment initiation and d
 Potential complications include gallbladder disease—such as cholelithiasis or cholecystitis—acute pancreatitis, and loss of lean muscle mass, particularly when rapid weight loss occurs without adequate nutrition or strength training.
 
 ### Regulatory Warnings
-Some GLP-1 medications carry a boxed warning for thyroid C-cell tumors based on rodent studies. They are contraindicated in patients with a personal or family history of medullary thyroid carcinoma or Multiple Endocrine Neoplasia syndrome type 2.
+According to [FDA prescribing information for Wegovy](https://app.notion.com/p/GLP-1-and-Diabetes-Benefits-Risks-and-Alternatives-3c6e4ad481e480e7ad0ce3f7763b1c53), some GLP-1 medications carry a boxed warning for thyroid C-cell tumors based on rodent studies. They are contraindicated in patients with a personal or family history of medullary thyroid carcinoma or Multiple Endocrine Neoplasia syndrome type 2.
 
 These risks should be reviewed with a healthcare professional before treatment begins.
 
@@ -74,7 +74,7 @@ These risks should be reviewed with a healthcare professional before treatment b
 
 ## Pharmaceutical Alternatives for Type 2 Diabetes
 
-GLP-1 receptor agonists are only one class among several non-insulin therapies used to manage T2DM. Other common options include SGLT2 inhibitors, metformin, and DPP-4 inhibitors.
+GLP-1 receptor agonists are only one class among several non-insulin therapies used to manage T2DM, according to clinical guidelines from the [Centers for Disease Control and Prevention](https://app.notion.com/p/GLP-1-and-Diabetes-Benefits-Risks-and-Alternatives-3c6e4ad481e480e7ad0ce3f7763b1c53). Other common options include SGLT2 inhibitors, metformin, and DPP-4 inhibitors.
 
 ### 1. SGLT2 Inhibitors
 
@@ -176,3 +176,7 @@ GLP-1 receptor agonists are powerful metabolic tools, but they are not a univers
 For appropriate patients, they can improve blood sugar control, support meaningful weight loss, and reduce cardiovascular and renal risk. At the same time, gastrointestinal side effects, rare complications, contraindications, cost, and long-term treatment planning all matter.
 
 The most effective approach is rarely medication alone. It is a personalized combination of evidence-based treatment, adequate nutrition, movement, muscle preservation, sleep, and ongoing medical supervision.
+
+---
+
+*Medical disclaimer: This article is for educational purposes only and is not a substitute for individualized medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional before starting, stopping, or changing a medication or supplement.*
